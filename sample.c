@@ -4,10 +4,8 @@ int main() {
       printf("rasdqwadaivan");
       printf("hello nibba");
       printf("christian");      
-      
-      
+      printf("asdqwqea"); 
       printf("from branch staging");
-	
-	printf("add new features");	
+      printf("add new features");	
 	
 }
